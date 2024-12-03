@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\ModBus\MODBUS.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\ModBus\MODBUS_FUNC.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\inc\Alg_FUNC.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\inc\Impedance_FUNC.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\src\Alg_FUNC.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\src\CurrentSet_FUNC.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\src\Measure_FUNC.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\src\SaveReadConfigurationToFlashMCU.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\IvanovD\Documents\AEAC_Load\MCU_source_code\IAR\src\main.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>G:\AEAC\Load\AEAC_Load\MCU_source_code\IAR\ModBus\MODBUS_FUNC.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
